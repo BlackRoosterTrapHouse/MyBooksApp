@@ -41,7 +41,7 @@ public class Author {
     public String toString() {
         return "Author{" +
                 "name='" + name + '\'' +
-                ", numOfBooks=" + numOfBooks +
+                ", numOfBooks=" + numOfBooks
                 ", nationality='" + nationality + '\'' +
                 '}';
     }
